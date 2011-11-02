@@ -1,2 +1,2 @@
-require 'httparty'
-require 'randomizer/base'
+require 'gibbon'
+require 'randomizer/command'

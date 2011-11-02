@@ -1,1 +1,1 @@
-gem 'httparty'
+gem 'gibbon'
