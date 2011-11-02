@@ -3,5 +3,5 @@
 $LOAD_PATH.unshift File.join(File.dirname(__FILE__), '..', 'lib')
 require 'randomizer'
 
-randomizer = Randomizer::Random.new
+randomizer = Randomizer::Command.new
 randomizer.run

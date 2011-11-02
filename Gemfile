@@ -1,1 +1,1 @@
-gem 'gibbon'
+gem 'hominid'

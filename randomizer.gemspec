@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
 
   s.files = %x{ git ls-files }.split("\n").select { |d| d =~ %r{^(bin/|lib/)} }
 
-  s.add_dependency "gibbon"
+  s.add_dependency "hominid"
 end
