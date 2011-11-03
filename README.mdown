@@ -1,0 +1,5 @@
+# About
+Command line based utility to randomly pick email addresses from MailChimp
+
+## Why
+While attending [Tech Jam 2011](http://www.techjamvt.com) we decided to offer a chance to win a free Agilion t-shirt in return for joining our mailing list. We needed an efficient and transparent way to randomly choose the winners. Yes, there was probably an easier way to do this but being the Rubyist that we are, we just couldn't help ourselves.
